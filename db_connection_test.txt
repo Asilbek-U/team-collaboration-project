@@ -1,0 +1,2 @@
+This is the database connection module.
+Dummy collaborator work for Issue #3.
